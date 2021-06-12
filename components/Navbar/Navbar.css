@@ -1,0 +1,24 @@
+.navbar-container{
+    width:100%;
+    background-color: #3D5671;
+    display:inline-flex;
+    height:50px;
+}
+
+.navbar-container div{
+    margin:auto;
+    margin-top:14px;
+}
+.navbar-container div a{
+    padding-left:5px;
+}
+.inactivelink{
+    text-decoration: none;
+    color: #B7C4D2;
+}
+.activelink{
+    color: #252138;
+}
+.navbar-container a:hover{
+    color: #252138;
+}

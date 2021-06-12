@@ -1,0 +1,42 @@
+body{
+ padding:0px;
+ margin:0px;   
+ font-family: Helvetica, sans-serif;
+ background-image: url(https://cutewallpaper.org/21/matte-black-wallpapers/Flat-Black-Wallpaper-32-Pictures.jpg);
+ background-size: cover;
+}
+
+.msgCargando {
+    color:white;
+    font-family: helvetica;
+}
+.tabla-container {
+  margin: 10px auto;
+  width: 90%;
+}
+.tabla-container table{
+    background-color: #344352;
+    border-collapse: collapse;
+    border:solid 1px grey;
+    text-align: left;
+    width: 100%;
+    color:darkgrey;
+}
+.tabla-container td{
+    padding: 10px;
+    border-top: solid 1px grey;
+    background-color: #293542;
+}
+.tabla-container th{
+    padding: 10px;
+}
+.tabla-container thead{
+    background-color: #344352;
+}
+.btnes{
+    background-color:#3D5671;
+    border:none;
+    padding:4px;
+    color:white;
+    margin-right:10px;
+}
